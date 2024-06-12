@@ -19,11 +19,11 @@ The goal of this project is to develop a classification model that will predict 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/caleb10miller/DSCI631/tree/main/DSCI631/Project.git
+    git clone https://github.com/caleb10miller/Classifying-Pitch-Outcomes.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Project
+    cd Classifying-Pitch-Outcomes
     ```
 3. Install the required dependencies:
     ```sh
